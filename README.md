@@ -16,7 +16,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/adobe-original.svg" title="Adobe" alt="Adobe" width="40" height="40"/>&nbsp;
 
 ---
 
